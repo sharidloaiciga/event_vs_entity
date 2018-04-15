@@ -6,7 +6,7 @@ This repository contains the data used for the studies presented in:
 
 ```
 @InProceedings{Loaiciga-Bevacqua-Rohde-Hardmeier2018,
-  author    = {Sharid Lo\{a}iciga and Luca Bevacqua and Hannah Rohde and Christian Hardmeier},
+  author    = {Sharid Lo\'{a}iciga and Luca Bevacqua and Hannah Rohde and Christian Hardmeier},
   title     = {Event versus entity co-reference: Effects of context and form of referring expression},
   booktitle = {Proceedings of the 1st Workshop on Computational Models of Reference, Anaphora, and Coreference},
   year      = {2018},
