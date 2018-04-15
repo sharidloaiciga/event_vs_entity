@@ -3,7 +3,8 @@ comeup\_NonAlt	adjectival_modifier	The bureaucratic problem came up again.	This/
 materialize\_NonAlt	adjectival_modifier	The greatest opportunity materialized unexpectedly.
 age\_Alt	adjectival_modifier	The Northern Italian wine aged well.	This/It
 develop\_Alt	adjectival_modifier	The inspiring project developed fast.	This/It
-flicker\_Alt	adjectival_modifier	The green light flickered incessantly. sound\_Alt	adjectival_modifier	The brand new siren sounded loud.
+flicker\_Alt	adjectival_modifier	The green light flickered incessantly. 
+sound\_Alt	adjectival_modifier	The brand new siren sounded loud.
 start\_Alt	adjectival_modifier	The last championship match started badly.	This/It
 arrive\_NonAlt	pp_modifier	The train from the Highlands arrived promptly.	This/It
 bloom\_NonAlt	pp_modifier	The plant with the purple leaves bloomed gracefully.	This/It
