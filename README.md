@@ -20,10 +20,10 @@ This repository contains the data used for the studies presented in:
 There are two files constructed_data.txt and corpus_data.txt, one for each study. In addition, examples can be found in the file data_examples.pdf. Both files are tab separated and are composed of the following information:
 
 ## constructed data:
-## Verb	\t	Type of context	\t	Context sentence	\t  Prompt 
+ Verb	\t	Type of context	\t	Context sentence	\t  Prompt 
 
 ## corpus data:
-## Type of pronoun	\t	Context sentence	\t  Prompt 
+ Type of pronoun	\t	Context sentence	\t  Prompt 
 
 
 
