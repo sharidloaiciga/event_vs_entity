@@ -2,7 +2,9 @@
 
 This repository contains the data used for the studies presented in:
 
+## Event versus entity co-reference: Effects of context and form of referring expression
 
+```
 @InProceedings{Loaiciga-Bevacqua-Rohde-Hardmeier2018,
   author    = {Sharid Lo\{a}iciga and Luca Bevacqua and Hannah Rohde and Christian Hardmeier},
   title     = {Event versus entity co-reference: Effects of context and form of referring expression},
@@ -13,21 +15,21 @@ This repository contains the data used for the studies presented in:
   pages     = {00--00},
   series    = {CRAC-NAACL-HLT2018},
 }
-
+```
 
 There are two files constructed_data.txt and corpus_data.txt, one for each study. In addition, examples can be found in the file data_examples.pdf. Both files are tab separated and are composed of the following information:
 
-constructed data:
-Verb	\t	Type of context	\t	Context sentence	\t  Prompt 
+## constructed data:
+## Verb	\t	Type of context	\t	Context sentence	\t  Prompt 
 
-corpus data:
-Type of pronoun	\t	Context sentence	\t  Prompt 
+## corpus data:
+## Type of pronoun	\t	Context sentence	\t  Prompt 
 
 
 
 The corpus data is extracted from ParcorFull, an English-German parallel corpus annotated with full coreference. 
 
-
+```
 @InProceedings{Lapshinova-Koltunski-Hardmeier-Krielke2018,
   author    = {Ekaterina Lapshinova-Koltunski and Christian Hardmeier and Pauline Krielke},
   title     = {{ParCorFull:} a Parallel Corpus Annotated with Full Coreference},
@@ -37,7 +39,7 @@ The corpus data is extracted from ParcorFull, an English-German parallel corpus 
   publisher = {European Language Resources Association (ELRA)},
   pages     = {00--00},
 }
-
+```
 
 For any additional information contact:
 
