@@ -1,0 +1,23 @@
+collapse\_NonAlt	adjectival_modifier	The colonial building collapsed slowly.	This/It
+comeup\_NonAlt	adjectival_modifier	The bureaucratic problem came up again.	This/It
+materialize\_NonAlt	adjectival_modifier	The greatest opportunity materialized unexpectedly.
+age\_Alt	adjectival_modifier	The Northern Italian wine aged well.	This/It
+develop\_Alt	adjectival_modifier	The inspiring project developed fast.	This/It
+flicker\_Alt	adjectival_modifier	The green light flickered incessantly. sound\_Alt	adjectival_modifier	The brand new siren sounded loud.
+start\_Alt	adjectival_modifier	The last championship match started badly.	This/It
+arrive\_NonAlt	pp_modifier	The train from the Highlands arrived promptly.	This/It
+bloom\_NonAlt	pp_modifier	The plant with the purple leaves bloomed gracefully.	This/It
+blow\_NonAlt	pp_modifier	The wind from the mountains blew cold.	This/It
+fall\_NonAlt	pp_modifier	The book with the parchment pages fell down.
+clear\_Alt	pp_modifier	The fog from the plains cleared up.	This/It
+cook\_Alt	pp_modifier	The cake for the guests cooked poorly.	This/It
+pop\_Alt	pp_modifier	The balloon with the red hearts popped noiselessly.	This/It
+slam\_Alt	pp_modifier	The door with the strange signs slammed heavily.	This/It
+die\_NonAlt	relative_clause	The battery that I had replaced died soon.	This/It
+disappear\_NonAlt	relative_clause	The key that we had hidden disappeared inexplicably.	This/It
+stink\_NonAlt	relative_clause	The milk that you had put in the black cups stank horribly.	This/It
+break\_Alt	relative_clause	The car that had two flat tires broke down.	This/It
+clog\_Alt	relative_clause	The sink that was used most often clogged quickly.	This/It
+explode\_Alt	relative_clause	The bomb that the arsonists had planted exploded violently.	This/It
+melt\_Alt	relative_clause	The snow that was covering the fields melted down.	This/It
+pass\_Alt	relative_clause	The pain that was annoying me passed spontaneously.	This/It

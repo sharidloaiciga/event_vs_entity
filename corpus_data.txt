@@ -1,0 +1,48 @@
+this_entity	Along with the scientific challenge and the economic challenge, there's also a cultural challenge.	This/It
+this_entity	And I turned in my story, and my editor called me and said:	This/It
+this_entity	Everybody who is involved with this debate has been struggling over me and my personality.	This/It
+this_entity	This is a program called Boundless Informant .	This/It
+this_entity	There 's a program called "Bullrun".	This/It
+this_entity	I want to help my government, but the fact that they are willing to completely ignore due process, they're willing to declare guilt without ever seeing a trial, these are things that we need to work against as a society.	This/It
+this_entity	The debate around you doesn't split along traditional political lines .	This/It
+this_entity	When you look at all that's taken place with Deep Mind and the boxing, a part of where we're going is artificial intelligence.	This/It
+this_entity	What is it about you and transportation systems?	This/It
+this_entity	Let's show the video.	This/It
+this_entity	The premise behind the mystery magic box was the following : 15 dollars buys you 50 dollars worth of magic .	This/It
+this_entity	The interrogation officer didn't torture the prisoner, he used a sophisticated system of psychological pressure in which strict isolation was central.	This/It
+this_event	When parents say 'I wish my child did not have autism,' what they're really saying is 'I wish the child I have did not exist and I had a different, non-autistic child instead.'	This/It
+this_event	The people who have the most malaria in the world tend to care the least.	This/It
+this_event	The main attacks on malaria have come from outside of malarious societies, from people who aren't constrained by these rather paralyzing politics.	This/It
+this_event	The CD-ROM and then the Internet came along, new technologies made the distribution of knowledge many orders of magnitude cheaper, and the encyclopedia industry collapsed.	This/It
+this_event	The Wikipedia is an encyclopedia created by its users.	This/It
+this_event	The number of connections that we can make is proportional to the number of pairs of data points, a hundredfold multiplication in the quantity of data is a ten-thousandfold multiplication in the number of patterns that we can see in that data.	This/It
+this_event	Think what happens when all of that data is collected and put together in order to find patterns we wouldn't see before.	This/It
+this_event	The world's library is Amazon.com, but you cannot choose to use encryption when browsing through books.	This/It
+this_event	Today, multimedia is a desktop or living room experience, because the apparatus is so clunky.	This/It
+this_event	My prediction is that we are going to ingest information, you're going to swallow a pill and know English.	This/It
+this_event	In 1989, more than 90,000 employees worked for the Stasi.	This/It
+this_event	Malaria takes a huge toll, we've got 300 million cases a year and over half a million deaths.	This/It
+it_event	We're throwing a lot more time and money into workshops and trainings and musicals and plays and school meetings, to convince people to use the nets.	This/It
+it_event	Democracy is in trouble, no question about that.	This/It
+it_event	I began to feel myself doing less and thinking less and feeling less.	This/It
+it_event	If you were married to someone and thought, "Well , if my wife dies , I'll find another one",	this/it
+it_event	We live in the right time.	This/It
+it_event	You become offended at almost a visceral level when you see something done that you think will harm the Internet.	This/It
+it_event	Larry wants to change the world, and he believes technology can show the way.	This/It
+it_event	I'm sad that Google's in the position of protecting you and our users from the government doing secret thing that nobody knows about.	This/It
+it_event	Tesla invented electric power that we use, but he struggled to get the power out to people.	This/It
+it_event	One of the things that is most quoted that I've ever said is that computing is not about computers.	This/It
+it_event	Seymour Papert is the person who said, "You can't think about thinking unless you think about thinking about something ."	This/It
+it_event	He'd open the radios and telephones and all sorts of things up, he'd unscrew them, and reveal the inner workings.	This/It
+it_entity	The fearsome power of this little insect was apparent to me from a very young age.	This/It
+it_entity	The road to global democracy doesn't run through states.	This/It
+it_entity	We can create a global parliament of mayors.	This/It
+it_entity	People think of depression as being just sadness.	This/It
+it_entity	If you look more carefully at this graph, what you will observe is that about a half of the digital data is information that has an I.P. address.	This/It
+it_entity	We are driven to this horizontalization of the structure of industries, and that implies fundamental changes in how we think about strategy.	This/It
+it_entity	I believe that a Magna Carta for the Internet is exactly what we need.	This/It
+it_entity	Canada is different than what I expected.	This/It
+it_entity	One of the websites told me that ants could be the problem.	This/It
+it_entity	When I get information on my phone, I'm able to post the information on the notice board.	This/It
+it_entity	You carry a phone. 	This/It
+it_entity	We'd go to this magic store in New York City called Lou Tannen's Magic.	This/It
