@@ -17,7 +17,7 @@ This repository contains the data and the mixed-effect models used for the studi
 }
 ```
 
-There are two files including the stimuli (constructed_data.txt and corpus_data.txt) and two files including the mixed-effect models (constructed_model.txt and corpus_model.txt), for each study. In addition, examples can be found in the file data_examples.pdf. Both files are tab separated and are composed of the following information:
+There are two files including the stimuli (constructed_data.txt and corpus_data.txt) and two files including the mixed-effect models (constructed_model.txt and corpus_model.txt) for each study. In addition, examples can be found in the file data_examples.pdf. Both files are tab separated and are composed of the following information:
 
 ## constructed data:
  Verb	\t	Type of context	\t	Context sentence	\t  Prompt 
