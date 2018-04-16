@@ -1,0 +1,40 @@
+CONSTRUCTED STIMULI STUDY:
+
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: isEventCoreference ~ cond * alternation + (1 + alternation *  
+    cond || output_id) + (cond | item)
+   Data: dat
+Control: glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e+05))
+
+     AIC      BIC   logLik deviance df.resid 
+   341.3    386.4   -159.7    319.3      432 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.4399 -0.3297  0.1094  0.2338  2.6031 
+
+Random effects:
+ Groups      Name                 Variance Std.Dev. Corr
+ output_id   (Intercept)          0.05108  0.2260       
+ output_id.1 alternation.         0.00000  0.0000       
+ output_id.2 cond                 0.76648  0.8755       
+ output_id.3 alternation:cond     0.07728  0.2780       
+ item        (Intercept)          1.83084  1.3531       
+             cond                 2.08721  1.4447   0.08
+Number of obs: 443, groups:  output_id, 27; item, 24
+
+Fixed effects:
+                     Estimate Std. Error z value Pr(>|z|)    
+(Intercept)            0.9334     0.4105   2.274    0.023 *  
+cond                   4.8448     0.7294   6.642 3.09e-11 ***
+alternation            0.9681     0.6924   1.398    0.162    
+cond:alternation      -1.2228     1.0337  -1.183    0.237    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)  cond   altrn
+cond         0.453              
+alternatn   -0.016  0.069       
+cnd:altrn    0.063 -0.050  0.228

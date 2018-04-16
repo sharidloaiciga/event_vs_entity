@@ -1,0 +1,52 @@
+CORPUS STIMULI STUDY:
+
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: isEventCoreference ~ cond * promptCond * promptReading +  
+    (1 + cond * promptCond * promptReading || output_id) + (1 + cond | prompt)
+   Data: dat
+Control: glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e+05))
+
+     AIC      BIC   logLik deviance df.resid 
+   523.6    607.1   -242.8    485.6      577 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-5.5209 -0.2743  0.0966  0.3348  2.2825 
+
+Random effects:
+ Groups      Name                          Variance Std.Dev.    Corr 
+ prompt      (Intercept)                     5.8222   2.4129        
+             cond                            2.1476   1.4655   -0.07
+ output_id   cond:promptCond:promptReading   0.0000   0.0000        
+ output_id.1 promptCond:promptReading        0.6138   0.7834        
+ output_id.2 cond:promptReading              0.8048   0.8971        
+ output_id.3 cond:promptCond                 0.0000   0.0000        
+ output_id.4 promptReading                   0.0000   0.0000        
+ output_id.5 promptCond                      0.0000   0.0000        
+ output_id.6 cond                            0.1058   0.3252        
+ output_id.7 (Intercept)                     0.0000   0.0000        
+Number of obs: 596, groups:  prompt, 48; output_id, 19
+
+Fixed effects:
+                              Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                     0.4214     0.4077   1.034 0.301281    
+cond                            2.5291     0.4516   5.600 2.14e-08 ***
+promptCond                     -1.0489     0.7907  -1.327 0.184646    
+promptReading                   3.0527     0.8249   3.701 0.000215 ***
+cond:promptCond                -1.2990     0.8298  -1.565 0.117472    
+cond:promptReading              0.4690     0.9599   0.489 0.625162    
+promptCond:promptReading       -0.2910     1.5834  -0.184 0.854185    
+cond:promptCond:promptReading   1.4369     1.6158   0.889 0.373831    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+                  (Intr)  cond   prCnd  prRdng cond:prCnd cond:prRdng prCnd:prRdng
+cond               0.040                                          
+promptCnd         -0.034 -0.109                                   
+promptRdng         0.037  0.216 -0.084                                
+cond:prCnd        -0.126 -0.128  0.028 -0.054                     
+cond:prRdng        0.218  0.090 -0.050  0.052 -0.220             
+prCnd:prRdng      -0.056 -0.019  0.013 -0.017  0.103     -0.065       
+cond:prCnd:prRdng -0.018 -0.115  0.103 -0.063  0.045     -0.081       0.010
