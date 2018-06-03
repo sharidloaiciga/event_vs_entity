@@ -8,33 +8,33 @@ Formula: isEventCoreference ~ cond * alternation + (1 + alternation *
 Control: glmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e+05))
 
      AIC      BIC   logLik deviance df.resid 
-   341.3    386.4   -159.7    319.3      432 
+     338      383     -158      316      432 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--3.4399 -0.3297  0.1094  0.2338  2.6031 
+-3.4799 -0.3136  0.1009  0.2238  2.5903 
 
 Random effects:
  Groups      Name                 Variance Std.Dev. Corr
- output_id   (Intercept)          0.05108  0.2260       
- output_id.1 alternation.         0.00000  0.0000       
- output_id.2 cond                 0.76648  0.8755       
- output_id.3 alternation:cond     0.07728  0.2780       
- item        (Intercept)          1.83084  1.3531       
-             cond                 2.08721  1.4447   0.08
+ output_id   (Intercept)          0.08466  0.2910       
+ output_id.1 alternation          0.50399  0.7099       
+ output_id.2 cond                 0.87569  0.9358       
+ output_id.3 alternation:cond     0.00000  0.0000       
+ item        (Intercept)          1.75033  1.3230       
+             cond                 2.24666  1.4989   0.15
 Number of obs: 443, groups:  output_id, 27; item, 24
 
 Fixed effects:
                      Estimate Std. Error z value Pr(>|z|)    
-(Intercept)            0.9334     0.4105   2.274    0.023 *  
-cond                   4.8448     0.7294   6.642 3.09e-11 ***
-alternation            0.9681     0.6924   1.398    0.162    
-cond:alternation      -1.2228     1.0337  -1.183    0.237    
+(Intercept)            0.8333     0.4131   2.017   0.0437 *  
+cond                   5.0997     0.7888   6.465 1.01e-10 ***
+alternation            1.4374     0.7251   1.982   0.0474 *  
+cond:alternation      -1.3496     1.0978  -1.229   0.2189    
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
-            (Intr)  cond   altrn
-cond         0.453              
-alternatn   -0.016  0.069       
-cnd:altrn    0.063 -0.050  0.228
+             (Intr)  cond   altrn
+cond          0.430              
+alternation  -0.076  0.167       
+cond:altern   0.133 -0.089  0.221
